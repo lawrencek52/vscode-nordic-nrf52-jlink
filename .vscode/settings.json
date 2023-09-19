@@ -1,0 +1,8 @@
+{
+    "cmake.configurationOnOpen": false,
+    "C_Cpp.default.includePath": ["${userHome}/zephyrproject/zephyr/include"],
+    "C_Cpp.default.compilerPath": "${userHome}/.local/zephyr-sdk-0.16.1/arm-zephyr-eabi/bin/arm-zephyr-eabi-gcc",
+    "C_Cpp.default.compilerCommands": "${workspaceFolder}/build/compile_commands.json",
+    "files.associations": {},
+    "C_Cpp.errorSquiggles": "disabled"
+}
